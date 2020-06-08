@@ -1,6 +1,7 @@
 # free
 更新时间 2020-06-08 18:06
-免费科学上网账号,免费翻墙账号,免费ssr,翻墙  
+免费科学上网账号，免费翻墙账号，免费ssr，免费翻墙  
+所有资源都爬取自网络免费资源，请勿用于政治相关用途  
 # 洛杉矶H  
 ssr://MTg1LjIyLjE1Mi4xODA6NjY2Om9yaWdpbjpyYzQ6cGxhaW46Wkc5dVozUmhhWGRoYm1jdVkyOXQvP29iZnNwYXJhbT0mcmVtYXJrcz01clNiNXAySjU1LTJTQSZncm91cD1hSFIwY0hNNkx5OW5hWFJvZFdJdVkyOXRMMEZzZG1sdU9UazVPUzl1WlhjdGNHRmpMM2RwYTJr  
 # 俄远东A  
